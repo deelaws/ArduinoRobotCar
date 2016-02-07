@@ -1,6 +1,8 @@
 This is a readme file for the robot car.
 Adding something else to readme.
 
-This readme file needs to be updated
+Add a picture of the pin configuration.
+Add a picture of the full device with the motors.
+
 cannot build using msbuild
 This is a readme file for the robot car.
