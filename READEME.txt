@@ -6,3 +6,10 @@ Add a picture of the full device with the motors.
 
 cannot build using msbuild
 This is a readme file for the robot car.
+
+int ENA = 5;//connected to Arduino's port 5(output pwm)
+int IN1 = 2;//connected to Arduino's port 2
+int IN2 = 3;//connected to Arduino's port 3
+int ENB = 6;//connected to Arduino's port 6(output pwm)
+int IN3 = 4;//connected to Arduino's port 4
+int IN4 = 7;//connected to Arduino's port 7
