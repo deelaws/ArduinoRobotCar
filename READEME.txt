@@ -9,3 +9,5 @@ This is a readme file for the robot car.
 
 Removed pins
 
+Added a setup.py file.
+
