@@ -7,6 +7,12 @@ Add a picture of the full device with the motors.
 cannot build using msbuild
 This is a readme file for the robot car.
 
+change 1
+
+change 2
+
+change 3
+
 
 
 Added a setup.py file.
